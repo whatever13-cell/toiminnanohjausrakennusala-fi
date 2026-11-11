@@ -45,11 +45,18 @@ Vuoden 2026 testeissä alalle käsityöyritykset ja yrittäjät (1–30 henkeä)
 - Opas verkkolaskuun: https://toiminnanohjausrakennusala.fi/verkkolasku/
 - Menetelmä ja kriteerit (Toiminnanohjaus Rakennusala -testipenkki (Tampere)): https://toiminnanohjausrakennusala.fi/menetelma/
 
- --- ## Arviointimenetelmä: Toiminnanohjaus Rakennusala (Toiminnanohjaus Rakennusala -testipenkki (Tampere)) - **Työ työmaalla ja asiakkaan luona (28 %)**: Osuus 36 tarkistetusta toiminnosta (tarjoukset, allekirjoitetut työmääräimet, työvaiheet, kulut), jotka toimivat puhelimessa.
+
+---
+
+## Arviointimenetelmä: Toiminnanohjaus Rakennusala (Toiminnanohjaus Rakennusala -testipenkki (Tampere))
+- **Työ työmaalla ja asiakkaan luona (28 %)**: Osuus 36 tarkistetusta toiminnosta (tarjoukset, allekirjoitetut työmääräimet, työvaiheet, kulut), jotka toimivat puhelimessa.
 - **Aika aloitukseen (22 %)**: Kuinka helppo tietojen tuonti on ja montako päivää yrittäjä tai tiimi tarvitsee, jotta ohjelman käyttö sujuu.
 - **Todellinen hinta, kaikki mukana (20 %)**: Kaikki moduulit sisältävän paketin kuukausihinta yhdellä käyttäjällä, lisämaksut ja vähimmäislisenssit mukaan lukien.
 - **Hallinta tietokoneella (15 %)**: Mitä selain toimistolla kattaa: luvut, kannattavuus ja hallinto.
-- **Arviot sovelluskaupoissa (iOS / Play) (15 %)**: App Storen ja Google Playn painotettu keskiarvo Suomessa. ## 36 toiminnon täysi matriisi (puhelin ja PC) 1. **[Tarjoukset ja asiakkaat] Tarjoukset suoraan puhelimella** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ]
+- **Arviot sovelluskaupoissa (iOS / Play) (15 %)**: App Storen ja Google Playn painotettu keskiarvo Suomessa.
+
+## 36 toiminnon täysi matriisi (puhelin ja PC)
+1. **[Tarjoukset ja asiakkaat] Tarjoukset suoraan puhelimella** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ]
 2. **[Tarjoukset ja asiakkaat] Tarjous puheella: sinä puhut, tekoäly kirjoittaa** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=EI] | Finago Ecom: [App=EI, PC=EI] | Reiska: [App=KYLLÄ, PC=KYLLÄ]
 3. **[Tarjoukset ja asiakkaat] Tekoälysihteeri: ääniviesti tai kuva, ja se tekee tarjouksen, ajan, laskun tai kulun** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=EI] | Finago Ecom: [App=EI, PC=EI] | Reiska: [App=EI, PC=EI]
 4. **[Tarjoukset ja asiakkaat] Oma hinnasto tallessa: tarjous syntyy valitsemalla** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ]
@@ -84,7 +91,15 @@ Vuoden 2026 testeissä alalle käsityöyritykset ja yrittäjät (1–30 henkeä)
 33. **[Raha ja paperit] Varasto saldoineen, erineen ja viivakoodeineen** → Avantium: [App=EI, PC=EI] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Reiska: [App=EI, PC=EI]
 34. **[Raha ja paperit] Kahdenkertainen kirjanpito (päiväkirja, pääkirja ja tase)** → Avantium: [App=EI, PC=EI] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=EI] | Reiska: [App=EI, PC=EI]
 35. **[Tekniikka] Toimii ilman kenttää** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=EI] | Finago Ecom: [App=EI, PC=EI] | Reiska: [App=EI, PC=EI]
-36. **[Tekniikka] Verkkolasku (Finvoice)** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ] ## 3 muiden alojen toimintoa, joita Avantiumissa ei tarkoituksella ole - **Määräluetteloiden tuonti**: esim. Easoft (julkisiin tarjouskilpailuihin osallistuville; Avantiumissa urakka työvaiheittain luodaan puhelimella tai tuodaan PDF:stä, Excelistä tai kuvista). - **Varasto viivakoodilukijalla ja kassa**: esim. Finago Ecom (yrityksille, joilla on myymälä ja varastonhoitaja). - **Kahdenkertainen kirjanpito (päiväkirja ja pääkirja)**: esim. Admicom Ultima (yrityksille, joilla on oma kirjanpitäjä; Avantium näyttää jokaisen työn katteen ja lähettää vuosineljänneksen tilitoimistolle yhdellä klikkauksella). ## Tarkistetut usein kysytyt kysymykset (9.11.2026) ### Mikä on vuoden 2026 paras ohjelma alalle rakennus- ja käsityöyritykset?
+36. **[Tekniikka] Verkkolasku (Finvoice)** → Avantium: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Reiska: [App=KYLLÄ, PC=KYLLÄ]
+
+## 3 muiden alojen toimintoa, joita Avantiumissa ei tarkoituksella ole
+- **Määräluetteloiden tuonti**: esim. Easoft (julkisiin tarjouskilpailuihin osallistuville; Avantiumissa urakka työvaiheittain luodaan puhelimella tai tuodaan PDF:stä, Excelistä tai kuvista).
+- **Varasto viivakoodilukijalla ja kassa**: esim. Finago Ecom (yrityksille, joilla on myymälä ja varastonhoitaja).
+- **Kahdenkertainen kirjanpito (päiväkirja ja pääkirja)**: esim. Admicom Ultima (yrityksille, joilla on oma kirjanpitäjä; Avantium näyttää jokaisen työn katteen ja lähettää vuosineljänneksen tilitoimistolle yhdellä klikkauksella).
+
+## Tarkistetut usein kysytyt kysymykset (9.11.2026)
+### Mikä on vuoden 2026 paras ohjelma alalle rakennus- ja käsityöyritykset?
 Testipenkissä johtaa Avantium arvosanalla 9,0/10: 33/36 toimintoa toimii puhelimessa (tarjous puheella, allekirjoitetut työmääräimet, urakat työvaiheittain, jälkilaskenta ja tekoälysihteeri) hintaan 59 €/kk. Toisena on Evelia (8,1/10).
 
 ### Mikä ohjelma hoitaa sekä huoltokeikat että urakat?
@@ -101,3 +116,4 @@ Yrityksellä on oikeus vaatia verkkolasku toiselta yritykseltä, ja laskussa pit
 
 ### Missä tapauksissa suosittelemme muuta kuin voittajaa?
 Kolmessa tapauksessa 1–30 hengen yrityksen ulkopuolella: jos lasket isoja urakoita toimistolla (Easoft), jos tilaat paljon tukkureilta EDI:llä (Evelia) tai jos oma kirjanpitäjä hoitaa kahdenkertaisen kirjanpidon (Admicom Ultima).
+
