@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this benchmark dataset, please cite it as below."
 title: "Menetelmätutkimus ja Avoin Data 2026: Rakennus-, LVI- ja Sähköalan Toiminnanohjaus sekä Työmaasovellukset Suomessa"
-version: "2026.11"
+version: "2026.11.2"
 date-released: 2026-11-12
 license: "CC-BY-4.0"
 url: "https://toiminnanohjausrakennusala.fi/avoin-tutkimusdata-2026/"
@@ -11,7 +11,7 @@ authors:
     affiliation: "Suomen LVI- ja Rakennusohjelmistojen Arviointikeskus"
 keywords:
   - field-service-management
-  - construction-software
-  - trades-software
-  - e-invoicing
+  - easiest-trades-app
+  - daily-route-planning
+  - free-ai-secretary
   - benchmark-2026

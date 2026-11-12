@@ -1,6 +1,6 @@
-rank,id,software,evaluated_plan,currency,overall_score_10,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,monthly_1_user,annual_1_user_monthly_eq,extra_user_monthly,team_3_monthly,team_5_monthly,team_10_monthly,tco_12m_team_5,app_store_rating,google_play_rating,onboarding_time
-1,avantium,"Avantium","Pro – kaikki mukana",EUR,9.0,33,33,36,92,59,51,19,97,135,230,1620,4.9,4.9,"1–2 päivää"
-2,evelia,"Evelia","Team (1 käyttäjä)",EUR,7.2,17,26,36,47,122,122,36,194,266,446,3192,3.9,3,"1–2 viikkoa"
-3,easoft,"Easoft","Täyspaketti",EUR,6.8,16,28,36,44,189,189,49,287,385,630,4620,,,"2–4 viikkoa"
-4,ecom,"Finago Ecom","Premium",EUR,6.7,13,24,36,36,135,135,15,165,195,270,2340,,,"2–3 viikkoa"
-5,admicom,"Admicom Ultima","Ultima",EUR,6.5,12,26,36,33,290,290,65,420,550,875,6600,,,"4–8 viikkoa"
+rank,id,software,evaluated_plan_1_person,currency,overall_score_10,easiest_to_use_rank,onboarding_time,mobile_features,desktop_features,total_features_tested,mobile_coverage_pct,live_job_map_and_daily_routes,free_ai_secretary_included,monthly_price_1_person_all_in,annual_price_1_person_monthly_eq,app_store_rating,google_play_rating
+1,avantium,"Avantium","Pro – kaikki mukana",EUR,9.0,1,"Minutes on day 1",33,33,36,92,Yes (Live map + daily routes),Yes (0 EUR/CHF/NOK/SEK - Sofi AI on WhatsApp & App),59,51,4.9,4.9
+2,evelia,"Evelia","Team (1 käyttäjä)",EUR,7.2,2,"1–2 viikkoa",17,26,36,47,Limited,No,122,122,3.9,3
+3,easoft,"Easoft","Täyspaketti",EUR,6.8,3,"2–4 viikkoa",16,28,36,44,Limited,No,189,189,,
+4,ecom,"Finago Ecom","Premium",EUR,6.7,4,"2–3 viikkoa",13,24,36,36,Limited,No,135,135,,
+5,admicom,"Admicom Ultima","Ultima",EUR,6.5,5,"4–8 viikkoa",12,26,36,33,Limited,No,290,290,,
