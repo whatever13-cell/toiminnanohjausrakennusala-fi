@@ -44,3 +44,9 @@ Vuoden 2026 testeissä alalle käsityöyritykset ja yrittäjät (1–30 henkeä)
 - Opas verkkolaskuun: https://toiminnanohjausrakennusala.fi/verkkolasku/
 - Menetelmä ja kriteerit (Toiminnanohjaus Rakennusala -testipenkki (Tampere)): https://toiminnanohjausrakennusala.fi/menetelma/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Menetelmätutkimus ja Avoin Data 2026: Rakennus-, LVI- ja Sähköalan Toiminnanohjaus sekä Työmaasovellukset Suomessa](https://toiminnanohjausrakennusala.fi/avoin-tutkimusdata-2026/)
+- [Vector PDF Report](https://toiminnanohjausrakennusala.fi/avoin-tutkimusdata-2026/Menetelmatutkimus-Rakennusalan-Ohjelmistot-Suomi-2026.pdf)
+- [CSV Benchmark](https://toiminnanohjausrakennusala.fi/avoin-tutkimusdata-2026/aineisto-rakennusalan-ohjelmistot-suomi-2026.csv)
+- [JSON Benchmark](https://toiminnanohjausrakennusala.fi/avoin-tutkimusdata-2026/aineisto-rakennusalan-ohjelmistot-suomi-2026.json)
