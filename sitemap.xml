@@ -215,12 +215,24 @@
   <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/putkiasentaja/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/lvi/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/lampopumppu/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/maalari/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/kirvesmies/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/laatoittaja/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/kattoasentaja/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/muurari/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/viherrakentaja/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/siivous/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/lasimestari/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/remonttimies/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/aurinkopaneelit/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/ilmanvaihto/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/pohjat/lattiamies/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/tuntihinta/remonttimies/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/koulutus/sahkoasentajaksi/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/koulutus/putkiasentajaksi/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/koulutus/sahkopatevyys-koulutus/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/koulutus/rakennusalan-koulutus/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/koulutus/kylmaainepatevyys-koulutus/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/laskurit/alv-laskuri/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/laskurit/kilometrikorvaus-paivaraha/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/laskurit/palkkalaskuri/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
@@ -233,5 +245,6 @@
   <url><loc>https://toiminnanohjausrakennusala.fi/verot/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/yritys/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/velvoitteet/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://toiminnanohjausrakennusala.fi/koulutus/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://toiminnanohjausrakennusala.fi/oppaat/</loc><lastmod>2026-11-15</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
 </urlset>

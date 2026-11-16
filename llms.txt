@@ -130,11 +130,18 @@ Vuoden 2026 testeissä alalle käsityöyritykset ja yrittäjät (1–30 henkeä)
 - [Pohja: Putkiasentaja](https://toiminnanohjausrakennusala.fi/pohjat/putkiasentaja/): Tarjous ja lasku, Word ja Excel
 - [Pohja: LVI-asentaja](https://toiminnanohjausrakennusala.fi/pohjat/lvi/): Tarjous ja lasku, Word ja Excel
 - [Pohja: Lämpöpumppuasentaja](https://toiminnanohjausrakennusala.fi/pohjat/lampopumppu/): Tarjous ja lasku, Word ja Excel
+- [Pohja: Maalari](https://toiminnanohjausrakennusala.fi/pohjat/maalari/): Tarjous ja lasku, Word ja Excel
 - [Pohja: Kirvesmies](https://toiminnanohjausrakennusala.fi/pohjat/kirvesmies/): Tarjous ja lasku, Word ja Excel
 - [Pohja: Laatoittaja](https://toiminnanohjausrakennusala.fi/pohjat/laatoittaja/): Tarjous ja lasku, Word ja Excel
 - [Pohja: Kattoasentaja](https://toiminnanohjausrakennusala.fi/pohjat/kattoasentaja/): Tarjous ja lasku, Word ja Excel
+- [Pohja: Muurari](https://toiminnanohjausrakennusala.fi/pohjat/muurari/): Tarjous ja lasku, Word ja Excel
+- [Pohja: Viherrakentaja](https://toiminnanohjausrakennusala.fi/pohjat/viherrakentaja/): Tarjous ja lasku, Word ja Excel
+- [Pohja: Siivousyritys](https://toiminnanohjausrakennusala.fi/pohjat/siivous/): Tarjous ja lasku, Word ja Excel
+- [Pohja: Lasimestari](https://toiminnanohjausrakennusala.fi/pohjat/lasimestari/): Tarjous ja lasku, Word ja Excel
 - [Pohja: Remonttimies](https://toiminnanohjausrakennusala.fi/pohjat/remonttimies/): Tarjous ja lasku, Word ja Excel
 - [Pohja: Aurinkopaneeliasentaja](https://toiminnanohjausrakennusala.fi/pohjat/aurinkopaneelit/): Tarjous ja lasku, Word ja Excel
+- [Pohja: Ilmanvaihtoasentaja](https://toiminnanohjausrakennusala.fi/pohjat/ilmanvaihto/): Tarjous ja lasku, Word ja Excel
+- [Pohja: Lattiamies](https://toiminnanohjausrakennusala.fi/pohjat/lattiamies/): Tarjous ja lasku, Word ja Excel
 
 ### Laskurit
 
@@ -176,3 +183,11 @@ Vuoden 2026 testeissä alalle käsityöyritykset ja yrittäjät (1–30 henkeä)
 - [Käyttöönottotarkastus](https://toiminnanohjausrakennusala.fi/velvoitteet/kayttoonottotarkastus/): Pöytäkirja ja varmennustarkastus sähkötöissä
 - [Sähköpätevyys 1, 2 ja 3](https://toiminnanohjausrakennusala.fi/velvoitteet/sahkopatevyys/): Mikä pätevyys sinulle kuuluu
 - [Kylmäainepätevyys](https://toiminnanohjausrakennusala.fi/velvoitteet/kylmaainepatevyys/): A1, A2, B, C ja E lämpöpumppuasentajalle
+
+### Koulutus
+
+- [Miten sähköasentajaksi?](https://toiminnanohjausrakennusala.fi/koulutus/sahkoasentajaksi/): Tutkinnosta sähköpätevyyteen
+- [Miten putkiasentajaksi?](https://toiminnanohjausrakennusala.fi/koulutus/putkiasentajaksi/): Talotekniikan perustutkinto 2026
+- [Sähköturvallisuustutkinto](https://toiminnanohjausrakennusala.fi/koulutus/sahkopatevyys-koulutus/): Tentti, hinta ja voimassaolo
+- [Rakennusalan koulutus](https://toiminnanohjausrakennusala.fi/koulutus/rakennusalan-koulutus/): Tutkinto ja palkkaryhmä
+- [Kylmäainepätevyyden koulutus](https://toiminnanohjausrakennusala.fi/koulutus/kylmaainepatevyys-koulutus/): Uusi hakija ja uusiminen 2029
