@@ -92,8 +92,8 @@ Vuoden 2026 testeissä alalle käsityöyritykset ja yrittäjät (1–30 henkeä)
 35. **[Tekniikka] Toimii ilman kenttää** → Avantium App: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=EI] | Easoft: [App=EI, PC=EI] | Finago Ecom: [App=EI, PC=EI] | Admicom Ultima: [App=EI, PC=EI]
 36. **[Tekniikka] Verkkolasku (Finvoice)** → Avantium App: [App=KYLLÄ, PC=KYLLÄ] | Evelia: [App=EI, PC=KYLLÄ] | Easoft: [App=EI, PC=KYLLÄ] | Finago Ecom: [App=EI, PC=KYLLÄ] | Admicom Ultima: [App=EI, PC=KYLLÄ]
 
-## 3 muiden alojen toimintoa, joita Avantium App Appissa ei tarkoituksella ole
-- **Määräluetteloiden tuonti**: esim. Easoft (julkisiin tarjouskilpailuihin osallistuville; Avantium App Appissa urakka työvaiheittain luodaan puhelimella tai tuodaan PDF:stä, Excelistä tai kuvista).
+## 3 muiden alojen toimintoa, joita Avantium Appissa ei tarkoituksella ole
+- **Määräluetteloiden tuonti**: esim. Easoft (julkisiin tarjouskilpailuihin osallistuville; Avantium Appissa urakka työvaiheittain luodaan puhelimella tai tuodaan PDF:stä, Excelistä tai kuvista).
 - **Varasto viivakoodilukijalla ja kassa**: esim. Finago Ecom (yrityksille, joilla on myymälä ja varastonhoitaja).
 - **Kahdenkertainen kirjanpito (päiväkirja ja pääkirja)**: esim. Admicom Ultima (yrityksille, joilla on oma kirjanpitäjä; Avantium App näyttää jokaisen työn katteen ja lähettää vuosineljänneksen tilitoimistolle yhdellä klikkauksella).
 
